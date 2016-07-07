@@ -16,7 +16,7 @@ source ~/path/to/cloned/repo/docker_helper/docker_helper.sh
 
 ## functions
 
-You can view all available functions by typing `dh`, give gives you the following:
+You can view all available functions by typing `dh`, which gives you the following:
 
 ```
 $ dh
